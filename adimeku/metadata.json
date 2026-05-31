@@ -1,0 +1,6 @@
+{
+  "name": "ADIMEKU",
+  "description": "Aplikasi pendukung keputusan asuhan gizi terstandar (PAGT) berbasis ADIME untuk dietisien dan nutritionist",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
